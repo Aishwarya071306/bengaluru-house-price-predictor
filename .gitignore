@@ -1,0 +1,15 @@
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Streamlit local state
+.streamlit/
